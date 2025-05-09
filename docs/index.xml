@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>_index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Личная база знаний Добро пожаловать в мою цифровую базу знаний, организованную с помощью Obsidian и Quartz! Здесь собраны заметки по языкам программирования, инструментам, концепциям, проектам и другим важным темам для быстрого поиска и повторного использования.</description>
+    <pubDate>Fri, 09 May 2025 22:12:05 GMT</pubDate>
+  </item><item>
+    <title>DNS</title>
+    <link>https://quartz.jzhao.xyz/00_%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8/DNS</link>
+    <guid>https://quartz.jzhao.xyz/00_%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8/DNS</guid>
+    <description>COMSS IPv4 dns.comss.one/dns-query router.comss.one/dns-query IPv4 83.220.169.155 Доп. 212.109.195.93 IPv6 2a01:230:4:915::2 доп.</description>
+    <pubDate>Fri, 09 May 2025 22:06:13 GMT</pubDate>
+  </item><item>
+    <title>this (контекст выполнения)</title>
+    <link>https://quartz.jzhao.xyz/01_%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8_%D0%B8_%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/JavaScript/this-(%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F)</link>
+    <guid>https://quartz.jzhao.xyz/01_%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8_%D0%B8_%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/JavaScript/this-(%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F)</guid>
+    <description>Ключевое слово this в JavaScript this — это специальное ключевое слово, которое ссылается на текущий объект, в контексте которого выполняется код.</description>
+    <pubDate>Fri, 09 May 2025 22:06:13 GMT</pubDate>
+  </item><item>
+    <title>Классы (class) в JavaScript</title>
+    <link>https://quartz.jzhao.xyz/01_%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8_%D0%B8_%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/JavaScript/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B-(class)-%D0%B2-JavaScript</link>
+    <guid>https://quartz.jzhao.xyz/01_%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8_%D0%B8_%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/JavaScript/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B-(class)-%D0%B2-JavaScript</guid>
+    <description>Класс — это расширяемый шаблон кода для создания объектов, который устанавливает в них начальные значения (свойства) и реализацию поведения (методы).</description>
+    <pubDate>Fri, 09 May 2025 22:06:13 GMT</pubDate>
+  </item><item>
+    <title>Прототипы и прототипное наследование</title>
+    <link>https://quartz.jzhao.xyz/01_%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8_%D0%B8_%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/JavaScript/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D1%8B-%D0%B8-%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D0%BD%D0%BE%D0%B5-%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5</link>
+    <guid>https://quartz.jzhao.xyz/01_%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8_%D0%B8_%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/JavaScript/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D1%8B-%D0%B8-%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D0%BD%D0%BE%D0%B5-%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5</guid>
+    <description>Прототипы — это механизм, с помощью которого объекты в JavaScript могут наследовать свойства и методы друг от друга.</description>
+    <pubDate>Fri, 09 May 2025 22:06:13 GMT</pubDate>
+  </item><item>
+    <title>Замыкание (Closure)</title>
+    <link>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%97%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D0%B5-(Closure)</link>
+    <guid>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%97%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D0%B5-(Closure)</guid>
+    <description>Замыкание – это функция, которая запоминает свои внешние переменные и может получить к ним доступ. В некоторых языках это невозможно.</description>
+    <pubDate>Fri, 09 May 2025 22:06:13 GMT</pubDate>
+  </item><item>
+    <title>Композиция и агрегация</title>
+    <link>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F-%D0%B8-%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%86%D0%B8%D1%8F</link>
+    <guid>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F-%D0%B8-%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%86%D0%B8%D1%8F</guid>
+    <description>Композиция и агрегация Композиция и агрегация — это способы организации связей между объектами в программировании.</description>
+    <pubDate>Fri, 09 May 2025 22:06:13 GMT</pubDate>
+  </item><item>
+    <title>ООП (Объектно-Ориентированное Программирование)</title>
+    <link>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F-(%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%9E%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5-%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)</link>
+    <guid>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%9E%D0%9E%D0%9F-(%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%9E%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5-%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)</guid>
+    <description>ООП (Объектно-Ориентированное Программирование) Объектно-Ориентированное Программирование (ООП) — это парадигма программирования, в которой основными строительными блоками являются объекты.</description>
+    <pubDate>Fri, 09 May 2025 22:06:13 GMT</pubDate>
+  </item><item>
+    <title>Принципы ООП</title>
+    <link>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D0%9E%D0%9E%D0%9F</link>
+    <guid>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D0%9E%D0%9E%D0%9F</guid>
+    <description>Принципы ООП Принципы ООП — это фундаментальные идеи, на которых строится объектно-ориентированное программирование.</description>
+    <pubDate>Fri, 09 May 2025 22:06:13 GMT</pubDate>
+  </item><item>
+    <title>Рекурсия (Recursion)</title>
+    <link>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F-(Recursion)</link>
+    <guid>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F-(Recursion)</guid>
+    <description>Рекурсия — это приём программирования, при котором функция вызывает саму себя для решения подзадачи. Такой вызов называется рекурсивным.</description>
+    <pubDate>Fri, 09 May 2025 22:06:13 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
