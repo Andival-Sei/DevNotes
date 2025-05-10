@@ -6,6 +6,12 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>oop-todo</title>
+    <link>https://quartz.jzhao.xyz/04_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/oop-todo</link>
+    <guid>https://quartz.jzhao.xyz/04_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/oop-todo</guid>
+    <description>oop-todo GitHub: Andival-Sei/oop-todo Демо: andival-sei.github.io/oop-todo/ Описание Простое приложение для управления задачами (TODO) с использованием объектно-ориентированного подхода на чистом JavaScript.</description>
+    <pubDate>Sat, 10 May 2025 09:27:33 GMT</pubDate>
+  </item><item>
     <title>_index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
@@ -58,12 +64,6 @@
     <link>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D0%9E%D0%9E%D0%9F</link>
     <guid>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D0%9E%D0%9E%D0%9F</guid>
     <description>Принципы ООП Принципы ООП — это фундаментальные идеи, на которых строится объектно-ориентированное программирование.</description>
-    <pubDate>Fri, 09 May 2025 22:06:13 GMT</pubDate>
-  </item><item>
-    <title>Рекурсия (Recursion)</title>
-    <link>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F-(Recursion)</link>
-    <guid>https://quartz.jzhao.xyz/03_%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8/%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F-(Recursion)</guid>
-    <description>Рекурсия — это приём программирования, при котором функция вызывает саму себя для решения подзадачи. Такой вызов называется рекурсивным.</description>
     <pubDate>Fri, 09 May 2025 22:06:13 GMT</pubDate>
   </item>
     </channel>

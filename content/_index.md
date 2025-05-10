@@ -36,6 +36,9 @@
 [[04_Проекты/todo-programm|todo-programm]]
 > Приложение TODO, в котором можно добавлять и удалять задачи. Стек: JavaScript, SCSS, Vite. [GitHub](https://github.com/Andival-Sei/todo-programm) | [Демо](https://todo-programm.vercel.app/)
 
+[[04_Проекты/oop-todo|oop-todo]]
+> Простое TODO на чистом JavaScript с ООП-подходом. [GitHub](https://github.com/Andival-Sei/oop-todo) | [Демо](https://andival-sei.github.io/oop-todo/)
+
 ### Инструкции
 [[00_Инструкции/DNS|DNS]]
 > Примеры публичных и игровых DNS-серверов для IPv4 и IPv6.
