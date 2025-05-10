@@ -39,6 +39,9 @@
 [[04_Проекты/oop-todo|oop-todo]]
 > Простое TODO на чистом JavaScript с ООП-подходом. [GitHub](https://github.com/Andival-Sei/oop-todo) | [Демо](https://andival-sei.github.io/oop-todo/)
 
+[[04_Проекты/image-slider|image-slider]]
+> Слайдер изображений на чистом JavaScript и CSS. [GitHub](https://github.com/Andival-Sei/image-slider)
+
 ### Инструкции
 [[00_Инструкции/DNS|DNS]]
 > Примеры публичных и игровых DNS-серверов для IPv4 и IPv6.
